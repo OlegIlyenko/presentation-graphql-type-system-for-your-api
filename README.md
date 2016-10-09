@@ -1,4 +1,4 @@
-## "GraphQL - the next step of API evolution" presentation
+## "GraphQL - a type system for your API" presentation
 
-Full URL: [https://olegilyenko.github.io/presentation-graphql-the-next-step-of-api-evolution](https://olegilyenko.github.io/presentation-graphql-the-next-step-of-api-evolution)
-Short URL: [http://bit.ly/graphql-next](http://bit.ly/graphql-next) 
+Full URL: [https://olegilyenko.github.io/presentation-graphql-type-system-for-your-api](https://olegilyenko.github.io/presentation-graphql-type-system-for-your-api)
+Short URL: [http://bit.ly/graphql-typesystem](http://bit.ly/graphql-typesystem) 
