@@ -161,3 +161,7 @@ iframe.graphiql {
 .super-strong {
   font-weight: 700 !important;
 }
+
+.pause-overlay {
+  background: white !important;
+}
